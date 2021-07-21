@@ -460,7 +460,7 @@ mark,
   color: #6c757d;
 }
 .blockquote-footer::before {
-  content: "— ";
+  content: "— ";
 }
 
 .img-fluid {
@@ -10154,3 +10154,4 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+{"mode":"full","isActive":false}
