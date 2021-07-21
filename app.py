@@ -1,6 +1,4 @@
-Python 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> from flask import Flask,render_template
+from flask import Flask,render_template
 import requests
 import json
 app = Flask(__name__)
